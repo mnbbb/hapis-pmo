@@ -13,6 +13,7 @@
     <h2 style="text-align:center;">Biodata Diri</h2>
     <div style="text-align:center;margin-bottom :20px;">
       <img src="hapis ngising.png" alt="foto profil" width="120" style="border-radius:50%;"/>
+      ![alt text](https://github.com/mnbbb/hapis-pmo/blob/410049aeacc8c43daafd586a9dafc2c039f596d6/hapis%20ngising.png.png)
     </div>
     <table border="1" cellpadding="10" cellpsacing="0" width="100%">
 
@@ -49,4 +50,4 @@
 </body>
 
 </html>
-![alt text](.png)
+
